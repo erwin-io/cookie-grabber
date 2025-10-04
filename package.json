@@ -1,0 +1,14 @@
+{
+  "name": "cookie-grabber-vercel",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "@sparticuz/chromium-min": "^123.0.1",
+    "axios": "^1.7.7",
+    "axios-cookiejar-support": "^5.0.3",
+    "puppeteer-core": "^23.7.0",
+    "tough-cookie": "^4.1.4",
+    "valid-url": "^1.0.9"
+  }
+}
